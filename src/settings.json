@@ -1,0 +1,10 @@
+{
+    "deadline" : "",
+    "dailyMotivationTime" : {
+        "hour" : 9,
+        "minutes" : 0,
+        "seconds" : 0
+    },
+    "regularly" : true,
+    "turnedoff" : false
+}
