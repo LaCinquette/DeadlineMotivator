@@ -1,0 +1,12 @@
+{
+    "deadlineStarted" : "0000-00-00T00:00:00",
+    "deadlineFinish" : "0000-00-00T00:00:00",
+    "milestonePercents" : [
+        "10",
+        "20",
+        "50"
+    ],
+    "milestoneCriticalPercent" : "00",
+    "dailyMotivators" : [],
+    "intervalMotivators":[]
+}

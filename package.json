@@ -11,7 +11,8 @@
 	],
 	"activationEvents": [
 		"onCommand:deadlinemotivator.SetDeadline",
-		"onCommand:deadlinemotivator.MotivateMe"
+		"onCommand:deadlinemotivator.MotivateMe",
+		"workspaceContains:**/.vscode/DeadlineSettings.json"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
